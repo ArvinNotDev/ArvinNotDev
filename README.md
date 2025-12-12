@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
-<h3 align="center">i am still learning and trying to improve myself</h3>
+<h3 align="center">i'm always trying to improve myself 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinnotdev&label=Profile%20views&color=0e75b6&style=flat" alt="arvinnotdev" /> </p>
 
