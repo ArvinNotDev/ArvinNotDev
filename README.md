@@ -102,14 +102,6 @@ That includes Arduino, ESP32, sensors, displays, GSM modules, EEPROM storage, Ra
 
 These are some of the projects that represent different parts of my development journey.
 
-### [`YOLOv8n Raspberry Pi Object Detection`](https://github.com/ArvinNotDev/yolov8n-raspberry-pi-object-detection)
-
-An edge computer-vision pipeline built around **YOLOv8n, ONNX Runtime and Raspberry Pi 4**, with an emphasis on lightweight CPU inference and practical deployment.
-
-The repository is structured around reusable source code, configuration, data, models, notebooks, examples and tooling rather than being just a single inference script.
-
----
-
 ### [`InputBridge — Gamepad → XInput`](https://github.com/ArvinNotDev/InputBridge-Gamepad2XInput)
 
 A Python-based tool that maps game controllers to a virtual Xbox/XInput device using **ViGEm and HID input**.
@@ -126,11 +118,27 @@ This represents another part of my interest: experimenting with simulations and 
 
 ---
 
+### [`YOLOv8n Raspberry Pi Object Detection`](https://github.com/ArvinNotDev/yolov8n-raspberry-pi-object-detection)
+
+An edge computer-vision pipeline built around **YOLOv8n, ONNX Runtime and Raspberry Pi 4**, with an emphasis on lightweight CPU inference and practical deployment.
+
+The repository is structured around reusable source code, configuration, data, models, notebooks, examples and tooling rather than being just a single inference script.
+
+---
+
 ### [`Smart Water Meter`](https://github.com/ArvinNotDev/smart_water_meter)
 
 A hardware/software system for monitoring water usage using flow sensing, persistent EEPROM storage and GSM-based remote interaction.
 
 The project includes an Arduino side as well as a Django backend and focuses on practical concerns such as interrupt-driven counting, persistent data, SMS parsing and non-blocking communication.
+
+---
+
+### [`PyQt Browser`](https://github.com/ArvinNotDev/pyqt-based-browser)
+
+A desktop browser project built with Python and PyQt.
+
+Another example of experimenting with application architecture, desktop interfaces and practical software tooling.
 
 ---
 
@@ -142,21 +150,6 @@ It provides both GUI and CLI interfaces and includes device management, applicat
 
 ---
 
-### [`Ollama Sentinel`](https://github.com/ArvinNotDev/python-ollama-sentinel)
-
-A lightweight developer-oriented assistant designed to work with **local Ollama models and project codebases**.
-
-The project is organized into separate core and UI components, reflecting my interest in building developer tools rather than only experimenting with models.
-
----
-
-### [`PyQt Browser`](https://github.com/ArvinNotDev/pyqt-based-browser)
-
-A desktop browser project built with Python and PyQt.
-
-Another example of experimenting with application architecture, desktop interfaces and practical software tooling.
-
----
 
 ## Other Things I've Built
 
