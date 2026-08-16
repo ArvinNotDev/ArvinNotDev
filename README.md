@@ -236,16 +236,6 @@ That approach is reflected in my repositories.
 
 ---
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvinNotDev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 ## A Few Things I Care About
 
 ```text
