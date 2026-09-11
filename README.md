@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:21262D,100:58A6FF&height=230&section=header&text=Arvin%20Jafari&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ARVIN%20JAFARI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20COMPUTER%20ENGINEERING%20STUDENT&descSize=15&descAlignY=60&color=0:0B0714,35:24104F,65:7B2CBF,85:D946EF,100:22D3EE" width="100%"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Code.+Create.+Learn.+Repeat.;Always+building+something.;Turning+ideas+into+software.;Exploring+new+technologies." alt="Typing Animation"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Code.+Create.+Break.+Learn.;Building+things+that+actually+work.;Backend+%7C+AI+%7C+Computer+Vision+%7C+Systems;Always+learning.+Always+building._" alt="Typing Animation"/>
 </a>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArvinNotDev-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ArvinNotDev)
-[![Profile Views](https://komarev.com/ghpvc/?username=ArvinNotDev\&style=for-the-badge\&color=0D1117\&label=PROFILE+VIEWS)](https://github.com/ArvinNotDev)
+[![GitHub](https://img.shields.io/badge/GitHub-ArvinNotDev-0B0714?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/ArvinNotDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=ArvinNotDev\&style=for-the-badge\&color=7B2CBF\&label=PROFILE+VIEWS)](https://github.com/ArvinNotDev)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## `> tech_stack`
+## `> TECH STACK`
 
 <br>
 
@@ -37,7 +37,7 @@
 
 <br><br>
 
-### Tools & Infrastructure
+### Infrastructure & Tools
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,git,github,linux&theme=dark" />
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-## `> github`
+## `> GITHUB`
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ArvinNotDev&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+<img src="./profile/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -76,10 +76,10 @@
 
 <br>
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-161B22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ArvinNotDev?tab=repositories)
+[![Repositories](https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0B0714?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/ArvinNotDev?tab=repositories)
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:21262D,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:22D3EE,30:D946EF,65:7B2CBF,100:0B0714" width="100%"/>
 
 </div>
